@@ -1,0 +1,14 @@
+.Name {
+    display: inline-block;
+    padding: 3rem;
+
+    &__title {
+        font-weight: 400;
+    }
+
+    &__first-name {
+        text-transform: uppercase;
+        font-weight: 700;
+    }
+
+}

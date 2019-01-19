@@ -1,10 +1,22 @@
 .Goal {
-
+    text-align: left;
+    padding: 3rem;
+    width: 50%;
+    text-align: center;
+    
     &__main-goal {
-        font-size: 40rem;
+        font-size: 20rem;
+        box-shadow: 0rem 2rem 10rem rgba(255,255,255,.4);
+        border-radius: 40px;
+        padding: 3rem;
+        width: 100%;
     }
 
     &__goal-item {
-        font-size: 5rem;
+        font-size: 2rem;
+        text-align: left;
+        width: 100%;
+        text-align: center;
+        padding: 3rem;
     }
 }
