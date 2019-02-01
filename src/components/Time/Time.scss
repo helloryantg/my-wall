@@ -1,7 +1,6 @@
 .Time {
-    display: inline-block;
-    float: right;
-    padding: 3rem;
+    display: block;
+    border: 1px solid black;
 
     &__clock {
 
